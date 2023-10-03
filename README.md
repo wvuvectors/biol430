@@ -1,2 +1,2 @@
 # biol430
-Central repository for BIOL 430 (Bioinformatics) projects
+Test repository for WVU BIOL 430 (Bioinformatics)
