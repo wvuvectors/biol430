@@ -1,0 +1,6 @@
+name: muscle_env_scratch
+channels:
+  - bioconda
+dependencies:
+  - muscle
+  
